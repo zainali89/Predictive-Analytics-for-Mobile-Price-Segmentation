@@ -1,1 +1,3 @@
 # Predictive-Analytics-for-Mobile-Price-Segmentation
+
+Utilizing a cutting-edge AI model, our Mobile Price Classification initiative accurately sorts mobile phones into defined price tiers based on critical features like battery duration, display size, RAM, processor performance, and camera resolution. This project applies sophisticated machine learning algorithms to assess these characteristics, ensuring precise market segmentation. This AI-enabled strategy delivers essential insights into different pricing levels, helping both consumers and retailers make knowledgeable decisions. Moreover, it enhances competitive market analysis, improves targeted marketing efforts, and optimizes inventory management for businesses.
